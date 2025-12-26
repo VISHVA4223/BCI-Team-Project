@@ -73,7 +73,7 @@ with hands:
                         wrist.x, wrist.y, imageWidth, imageHeight
                     )
                     if px is not None and py is not None:
-                        co.append([px, py])WSW
+                        co.append([px, py])
                 except Exception:
                     continue
 
@@ -339,6 +339,3 @@ with hands:
 
 cap.release()
 cv2.destroyAllWindows()
-apps-fileview.texmex_20251211.00_p1
-import math.txt
-Displaying import math.txt.
